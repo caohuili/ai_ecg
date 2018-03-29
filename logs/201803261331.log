@@ -1,0 +1,29 @@
+2018-03-26 13:31:48,922 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-26 13:31:48,922 - BrowserEngine - INFO - The test server url is:http://ai-ecg-portal.kanebay.com/SignIn
+2018-03-26 13:31:53,433 - BrowserEngine - INFO - Starting Chrome browser
+2018-03-26 13:31:54,498 - BrowserEngine - INFO - Open url:http://ai-ecg-portal.kanebay.com/SignIn
+2018-03-26 13:31:55,818 - BasePage - INFO - Had type "caohuili" in inputBox
+2018-03-26 13:31:55,917 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 13:31:55,968 - BasePage - INFO - Had find the element "登录" successful by id via value: Login.
+2018-03-26 13:31:56,032 - BasePage - INFO - The element was clicked.
+2018-03-26 13:31:57,087 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 13:31:57,467 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 13:31:57,570 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 13:31:57,638 - BasePage - INFO - Had type "123456" in inputBox
+2018-03-26 13:31:57,683 - BasePage - INFO - Had find the element "登录" successful by id via value: Login.
+2018-03-26 13:31:57,718 - BasePage - INFO - The element was clicked.
+2018-03-26 13:31:58,764 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 13:31:59,072 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 13:31:59,135 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 13:31:59,181 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 13:31:59,213 - BasePage - INFO - Had find the element "登录" successful by id via value: Login.
+2018-03-26 13:31:59,244 - BasePage - INFO - The element was clicked.
+2018-03-26 13:32:00,262 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 13:32:00,536 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 13:32:00,599 - BasePage - INFO - Had type "test111" in inputBox
+2018-03-26 13:32:00,662 - BasePage - INFO - Had type "11111111" in inputBox
+2018-03-26 13:32:00,679 - BasePage - INFO - Had find the element "登录" successful by id via value: Login.
+2018-03-26 13:32:00,701 - BasePage - INFO - The element was clicked.
+2018-03-26 13:32:01,983 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 13:32:05,026 - Email - INFO - attach fileE:\xindian\胡哥\carewell_portal\test\report\report.html
+2018-03-26 13:32:06,635 - Email - INFO - 邮件发送成功test_report，收件人：787939408@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确。

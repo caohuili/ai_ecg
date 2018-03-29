@@ -1,0 +1,7 @@
+2018-03-26 13:32:51,740 - testGetDeviceList - INFO - {"retCode":13, "reason":"Session Timeout or illegal access"}
+2018-03-26 13:32:51,740 - testGetDeviceList - INFO - '13' != '0'
+- 13
++ 0
+
+2018-03-26 13:32:51,744 - Email - INFO - attach fileE:\xindian\胡哥\carewell_portal\test\report\report.html
+2018-03-26 13:32:51,938 - Email - INFO - 邮件发送成功test_report，收件人：787939408@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确。

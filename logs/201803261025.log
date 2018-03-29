@@ -1,0 +1,5 @@
+2018-03-26 10:25:31,067 - testGetDeviceList - INFO - {"retCode":13, "reason":"Session Timeout or illegal access"}
+2018-03-26 10:25:31,067 - testGetDeviceList - INFO - '13' != '0'
+- 13
++ 0
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+    <database name="Backoffice">
+        <table name="Device">
+            <sql id="select_device_list">
+                  SELECT top 5 [DeviceId],[OfficeId] ,[Name] ,[Model] FROM [Device] order by CreatedDate desc
+            </sql>
+        </table>
+
+        <table name="testtable">
+            <sql id="select_device_detail">
+                SELECT [DeviceId],[OfficeId] ,[Name] ,[Model] FROM [Device] where [Name] =%s
+            </sql>
+        </table>
+    </database>
+</page>

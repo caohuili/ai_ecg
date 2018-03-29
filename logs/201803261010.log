@@ -1,0 +1,8 @@
+2018-03-26 10:10:03,488 - Email - INFO - attach fileE:\xindian\胡哥\carewell_portal\test\report\report.html
+2018-03-26 10:10:03,776 - Email - INFO - 邮件发送成功test_report，收件人：787939408@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确。
+2018-03-26 10:10:03,808 - ALLRUN - ERROR - 'Book' object has no attribute 'get_sheet_name'
+2018-03-26 10:10:03,809 - ALLRUN - INFO - *********TEST END*********
+2018-03-26 10:10:49,670 - Email - INFO - attach fileE:\xindian\胡哥\carewell_portal\test\report\report.html
+2018-03-26 10:10:49,791 - Email - INFO - 邮件发送成功test_report，收件人：787939408@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确。
+2018-03-26 10:10:49,813 - ALLRUN - ERROR - 'Book' object has no attribute 'get_sheet_name'
+2018-03-26 10:10:49,813 - ALLRUN - INFO - *********TEST END*********

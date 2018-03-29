@@ -1,0 +1,27 @@
+2018-03-26 11:13:34,614 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-26 11:13:34,614 - BrowserEngine - INFO - The test server url is:http://ai-ecg-portal.kanebay.com/SignIn
+2018-03-26 11:13:42,500 - BrowserEngine - INFO - Starting Chrome browser
+2018-03-26 11:13:45,063 - BrowserEngine - INFO - Open url:http://ai-ecg-portal.kanebay.com/SignIn
+2018-03-26 11:13:46,381 - BasePage - INFO - Had type "caohuili" in inputBox
+2018-03-26 11:13:46,459 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 11:13:46,500 - BasePage - INFO - Had find the element "µÇÂ¼" successful by id via value: Login.
+2018-03-26 11:13:46,546 - BasePage - INFO - The element was clicked.
+2018-03-26 11:13:47,588 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 11:13:47,991 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 11:13:48,078 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 11:13:48,149 - BasePage - INFO - Had type "123456" in inputBox
+2018-03-26 11:13:48,192 - BasePage - INFO - Had find the element "µÇÂ¼" successful by id via value: Login.
+2018-03-26 11:13:48,234 - BasePage - INFO - The element was clicked.
+2018-03-26 11:13:49,263 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 11:13:49,547 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 11:13:49,636 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 11:13:49,688 - BasePage - INFO - Had type "" in inputBox
+2018-03-26 11:13:49,720 - BasePage - INFO - Had find the element "µÇÂ¼" successful by id via value: Login.
+2018-03-26 11:13:49,751 - BasePage - INFO - The element was clicked.
+2018-03-26 11:13:50,768 - BasePage - INFO - Had find the element "Incorrect username or password." successful by id via value: PasswordErrorPrompt.
+2018-03-26 11:13:51,052 - BasePage - INFO - Had take screenshot and save to folder:/screenshots
+2018-03-26 11:13:51,113 - BasePage - INFO - Had type "test111" in inputBox
+2018-03-26 11:13:51,180 - BasePage - INFO - Had type "11111111" in inputBox
+2018-03-26 11:13:51,202 - BasePage - INFO - Had find the element "µÇÂ¼" successful by id via value: Login.
+2018-03-26 11:13:51,224 - BasePage - INFO - The element was clicked.
+2018-03-26 11:13:52,482 - BasePage - INFO - Had take screenshot and save to folder:/screenshots

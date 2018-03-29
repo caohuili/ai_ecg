@@ -1,0 +1,18 @@
+2018-03-28 19:03:21,763 - testGetDeviceList - INFO - <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<h1>502 Bad Gateway</h1>
+<p>The proxy server received an invalid response from an upstream server.<hr/>Powered by Apache</body>
+</html>
+
+2018-03-28 19:03:21,763 - testGetDeviceList - INFO - Expecting value: line 1 column 1 (char 0)
+2018-03-28 19:03:34,462 - testGetDeviceList - INFO - <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<h1>502 Bad Gateway</h1>
+<p>The proxy server received an invalid response from an upstream server.<hr/>Powered by Apache</body>
+</html>
+
+2018-03-28 19:03:34,462 - testGetDeviceList - INFO - Expecting value: line 1 column 1 (char 0)

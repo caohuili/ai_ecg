@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interface>
+    <url name="register">
+        <group>User</group>
+        <module>Member</module>
+        <action>registerCommon</action>
+    </url>
+
+    <url name="devicelist">
+        <group>Device</group>
+        <module>UltraList</module>
+        <action></action>
+    </url>
+</interface>
